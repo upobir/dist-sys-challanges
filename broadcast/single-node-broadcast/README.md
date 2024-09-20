@@ -1,5 +1,9 @@
 # Single-Node Broadcast
 
+See specs at [Single-Node Broadcast](https://fly.io/dist-sys/3a/)
+
+## Running
+
 Make sure you have maelstrom installed. Build code with `go build .`. Then test with
 
 ```bash
