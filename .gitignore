@@ -1,5 +1,7 @@
 maelstrom/
+**/store/
 
 maelstrom-*
 
 project.lua
+
