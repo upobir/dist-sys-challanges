@@ -57,10 +57,14 @@ func broadcastHandler(msg maelstrom.Message) error {
 		return err
 	}
 
+	result := map[string]string{"type": "broadcast_ok"}
+	if err := n.Reply(msg, result); err != nil {
+		return err
+	}
+
 	addValueToSeen(body.Value, msg.Dest)
 
-	result := map[string]string{"type": "broadcast_ok"}
-	return n.Reply(msg, result)
+	return nil
 }
 
 func nodeBroadcastHandler(msg maelstrom.Message) error {
