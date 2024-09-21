@@ -7,4 +7,5 @@ Challanges from [Glossip Glomers](https://fly.io/dist-sys/)
 3. [Broadcast](./broadcast)
     1. [Single-Node Broadcast](./broadcast/single-node-broadcast)
     2. [Multi-Node Broadcast](./broadcast/multi-node-broadcast)
+    3. [Fault Tolerant Broadcast](./broadcast/fault-tolerant-broadcast)
 
