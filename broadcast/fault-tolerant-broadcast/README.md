@@ -1,6 +1,6 @@
 # Fault Tolerant Broadcast
 
-See specs at [Echo](https://fly.io/dist-sys/3c/)
+See specs at [Fault Tolerant Broadcast](https://fly.io/dist-sys/3c/)
 
 ## Running
 
