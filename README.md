@@ -9,4 +9,5 @@ Challanges from [Glossip Glomers](https://fly.io/dist-sys/)
     2. [Multi-Node Broadcast](./broadcast/multi-node-broadcast)
     3. [Fault Tolerant Broadcast](./broadcast/fault-tolerant-broadcast)
     4. [Efficient Broadcast Part 1](./broadcast/efficient-broadcast-part-1)
+    5. [Efficient Broadcast Part 2](./broadcast/efficient-broadcast-part-2)
 
